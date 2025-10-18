@@ -1,1 +1,1 @@
-Resolved version
+feat conflict version
