@@ -1,0 +1,12 @@
+{
+	"scripts":{
+		"start":"node server.js",
+		"test:watch":"jest --watch"
+	},
+	"devDependencies":{
+		"jest":"12.3"
+	},
+	"dependencies":{
+		
+	}
+}
