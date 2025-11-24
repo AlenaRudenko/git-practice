@@ -1,1 +1,1 @@
-Resolved version dddddd
+Resolved version
